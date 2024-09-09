@@ -1,0 +1,5 @@
+#Variant ID,Chromosome,Position on chromosome,Reference allele,Alternate allele,Alternate allele frequency
+rs12345,1,1234567,A,G,0.12
+rs67890,2,2345678,C,T,0.34
+rs13579,X,3456789,G,A,0.45
+rs24680,Y,4567890,T,C,0.67
