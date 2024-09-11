@@ -1,4 +1,4 @@
-# Backend Interview Task
+# Backend Take-home Test
 
 The task is split in two parts, the first part is to implement a parser for a proprietary genetic data format, and the
 second part is to implement an API that allows for retrieving genetic results stored in the proprietary format.
@@ -6,11 +6,14 @@ second part is to implement an API that allows for retrieving genetic results st
 You can complete this task in any programming language of your choice, but we ask that you use a language that you are 
 comfortable answering detailed questions about.
 
+We understand that balancing this task with other responsibilities is important, so we estimate that completing it should take around 3 to 4 hours.
+While we suggest aiming for that time frame, feel free to exceed it if necessary, though we remain mindful of respecting your time.
+
 When reviewing your submission, we'll be looking for pragmatic solutions that are easy to understand and maintain. How you choose to test this
 is up to you, but we will be expecting a tested solution that covers some potential edge cases you can think of.
 
 > [!TIP]
-> This is a big task and you won't have time to implement everything perfectly in the 3 hour period, we understand (and expect) you to have
+> This is a big task and you won't have time to implement everything perfectly in the suggested time frame, we understand (and expect) you to have
 > to make tradeoffs when implementing this, so aim to get a working solution and leave comments where you'd improve things if you had more
 > time.
 
