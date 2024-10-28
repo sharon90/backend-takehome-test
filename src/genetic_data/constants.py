@@ -1,0 +1,6 @@
+VARIANT_ID = "Variant ID"
+CHROMOSOME = "Chromosome"
+POSITION = "Position on chromosome"
+REFERENCE = "Reference allele"
+ALTERNATE = "Alternate allele"
+ALTERNATE_FREQ = "Alternate allele frequency"
